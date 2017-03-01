@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "Doctor Healer"
+	"version"     "1.0"
+	"author_name" "k3ddan"
+	"info"        "Doctor Healer NPC"
+	"override"    "0"
+}
